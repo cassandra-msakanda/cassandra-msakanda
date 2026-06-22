@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi, I'm Cassandra 👋
+I'm an Architectural Technologist focused on precise, buildable documentation.
+🔭 6+ years producing AutoCAD permit sets for 30+ projects
+🌱 Currently learning US IBC/IRC codes + Bluebeam Revu advanced workflows  
+👯 Looking to collaborate on remote architectural drafting teams
+💬 Ask me about: council submissions, CAD standards, ET timezone workflows
+📫 Reach me: cassandra@email.com
+⚡ Fun fact: I can spot a 2mm dimension error from across the room
 
-<!--
-**cassandra-msakanda/cassandra-msakanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**: AutoCAD | Revit | Bluebeam | SketchUp | MS Teams | Asana
+**Portfolio**: [View samples here](https://github.com/cassandra-msakanda/myportfolio)
